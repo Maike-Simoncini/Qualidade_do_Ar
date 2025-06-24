@@ -12,6 +12,26 @@ Uma aplicação web simples que consulta a qualidade do ar em tempo real de qual
 - Classificação visual: Ótimo ✅ | Regular ⚠️ | Ruim ❌
 - Interface amigável e responsiva
 
+## 🔧 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- API externa
+
 ## 🎯 Importante
 
 Para rodar localmente, substitua `COLOQUE_SUA_API_AQUI` no arquivo `script.js` pela sua chave da [API-Ninjas](https://api-ninjas.com/). 
+
+## 📷 Demonstração
+
+<a><img width="100%" src="img/qualidade.png"></a>
+
+## 🔗 Link para o Projeto
+
+👉 [Ver Projeto ao Vivo](https://maike-simoncini.github.io/Qualidade_do_Ar/) 👈
+
+## 📄 Licença
+
+Este projeto é de código aberto e pode ser utilizado por qualquer pessoa.
+
